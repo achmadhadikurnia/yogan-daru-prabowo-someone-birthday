@@ -1,7 +1,7 @@
 # Yogan Daru Prabowo's Someone Birthday
 
-Ini adalah hadiah ulang tahun dari Yogan untuk seseorang yang entah siapa.
+This is a birthday gift from Yogan for someone whose name is unknown
 
-## Terimakasih Kepada
+## Thanks to
 
 https://github.com/ayusharma/birthday
